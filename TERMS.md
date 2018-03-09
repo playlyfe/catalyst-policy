@@ -155,6 +155,21 @@ Please act in good faith towards our users’ privacy and data during your discl
 
 Yes, you can. We offer an Enterprise version of our app which can be run in a private cloud. Contact us at sales@getcatalyst.in to talk to use and get a quote.
 
+
+## Subscription Term & Fees
+
+### Subscription Term and Renewals
+Unless otherwise specified on the applicable Order Form, each Subscription Term will automatically renew for additional twelve month periods unless either party gives the other written notice of termination at least thirty (30) days prior to expiration of the then-current Subscription Term.
+
+### Fees and Payment
+All fees are as set forth in the applicable Order Form and will be paid by Customer within thirty (30) days of invoice, unless (a) Customer is paying via Credit Card (as defined below) or (b) otherwise specified in the applicable Order Form.
+
+Except as expressly set forth in [Warranties and Disclaimers](#warranties-and-disclaimers) and [Indemnity and Liability](#indemnity-and-liability) sections, all fees are non-refundable. The rates in the Order Form are valid for the initial twelve (12) month period of each Subscription Term and thereafter may be subject to an automatic adjustment increase of up to ten percent (10%) per year. Customer is responsible for paying all Taxes, and all Taxes are excluded from any fees set forth in the applicable Order Form. If Customer is required by Law to withhold any Taxes from Customer's payment, the fees payable by Customer will be increased as necessary so that after making any required withholdings, Playlyfe receives and retains (free from any liability for payment of Taxes) an amount equal to the amount it would have received had no such withholdings been made. Any late payments will be subject to a service charge equal to 1.5% per month of the amount due or the maximum amount allowed by law, whichever is less.
+
+### Suspension of Service
+
+If a Customer's account is overdue by thirty (30) days or more, Playlyfe reserves the right to suspend Customer's access to the applicable Service (and any related services, in addition to any of its other rights or remedies (including but not limited to any termination rights set forth herein) without any liability to the Customer until such amounts are paid in full.
+
 ## Intellectual Property Rights
 
 ### Who Owns Catalyst Materials?
@@ -351,3 +366,8 @@ The Catalyst service (excluding linked sites) is controlled by Playlyfe IT Solut
 ## General
 
 The Terms of Use and other rules, guidelines, licenses and disclaimers posted via Catalyst or in connection with the Materials and Services constitute the entire agreement between Playlyfe and you with respect to your access to or use of the Catalyst service and materials superseding any prior agreements between you and Playlyfe on such subject matter (including any prior versions of the Terms of Use). Notwithstanding the foregoing, to the extent that any terms set forth in the Terms of Use expressly contradict any terms of a written agreement between you and Playlyfe regarding the use of specific Services or Materials (including Service-specific terms of use and Software-specific licenses) (“Executed Agreement”), such contradictory terms set forth in the Executed Agreement shall govern. You may also be subject to additional terms and conditions that may apply when you use other Playlyfe services, third party content or third party software. If for any reason a court of competent jurisdiction finds any provision of the Terms of Use, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties as reflected by that provision, and the remainder of the Terms of Use shall continue in full force and effect. Any failure by Playlyfe to enforce or exercise any provision of the Terms of Use or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Use are purely for convenience and carry with them no legal or contractual effect.
+
+## Document History
+
+* 2017, Nov 14: created.
+* 2018, Mar 18: added subscription term & fees.
