@@ -1,195 +1,97 @@
-# Catalyst Terms of Use and Privacy Policy
+# Catalyst Terms of Service
 
-Please read this document carefully before accessing or using Catalyst.
+Effective Sep 21, 2018. [Document History](#document-history)
+
+This Agreement applies to:
+
+- The Catalyst Website (getcatalyst.in)
+- The Catalyst Web Application hosted on your subdomain - your-organization.getcatalyst.in
+
+For the rest of this document, these will be referred to as **Catalyst Services**
+
+This document is a sister-document to our **[Privacy Policy](https://signup.getcatalyst.in/legal/privacy)**. Please make sure you read both carefully before accessing or using a Catalyst Service.
 
 ---
 
 ## Introduction
+
 ### English, Not Legalese
 
-Most Terms of Use and Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in our opinion are not very effective.
+Most Terms of Service and Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in our opinion are not very effective.
 
-Because we believe in establishing long-term relationships with our customers, we decided to use plain English instead as much as possible, to make our terms as clear as possible.
+Because **we believe in establishing long-term relationships with our customers**, we decided to use plain English instead as much as possible, to make our terms as clear as possible.
 
-Please don’t forget that we are real people: take a look at our company page to get to know us a little. We are not perfect, but we’re trying our hardest, because we genuinely care about your success.
+Please don’t forget that we are real people: take a look at [our company page](https://getcatalyst.in/about) to get to know us a little. We are not perfect, but we’re trying our hardest, because we genuinely care about your success.
 
-When you read Playlyfe or we below, it refers to Playlyfe IT Solutions Pvt. Ltd. ([contact information](http://getcatalyst.in/company#contact)), its affiliates and agents. The Catalyst app is owned and operated by Playlyfe.
+When you read **Playlyfe** or **we** below, it refers to Playlyfe as defined in the [Who We Are](https://signup.getcatalyst.in/legal/privacy#who-we-are) section of [our Privacy Policy](https://signup.getcatalyst.in/legal/privacy)
 
-Should you have other questions or concerns about this document, please send us an e-mail at sales@getcatalyst.in.
 
-## Using Catalyst Means Accepting These Terms
+Our Catalyst Web Application also include the concept of an Organization Owner, or Administrator. For the rest of this document, these will collectively be referred to as **Owners**.
 
-By accessing or using Catalyst (https://getcatalyst.in) in any way, whether you have created your own Catalyst Organization or are invited to someone else’s Organization as a user, or are just browsing around, you agree to and are bound by the terms and conditions written in this document.
+Should you have other questions or concerns about this document, please [get in touch](https://signup.getcatalyst.in/legal/privacy#contact-us)
 
-If you do not agree to all of the terms and conditions contained in this document, do not access Catalyst.
+## Using Our Services Means Accepting These Terms
 
-## This Is a Living Document
+By accessing or using a Catalyst Service in any way, whether you are visiting our websites, have created your own Catalyst Organization or are invited to someone else’s Organization as a user, you agree to and are bound by the terms and conditions written in this document, the [Data Processing Addendum](https://signup.getcatalyst.in/legal/dpa) as well as our [Privacy Policy](https://signup.getcatalyst.in/legal/privacy).
 
-This is a living document. With your help, we want to make it the best in the industry. If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We’re all ears! Email khs@getcatalyst.in and we’ll chat.
+If you do not agree to all of the terms and conditions contained in this document and our Privacy Policy, do not access a Catalyst Service.
+
+This is a living document. With your help, we want to make it the best in the industry.
+
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We’re all ears!
 
 We don’t amend this document for any particular customer, but if your changes apply to all of our customers, we’ll be happy to update it for everyone. Scroll to the bottom to see the history so far.
 
-We will likely improve this document over time. By continuing to use the site, you will implicitly accept the changes we make.
+We improve this document over time. If the changes are significant, we will provide a prominent notice on our home page, product login screens, or by sending you an email notification. By continuing to use the Service, you will implicitly accept the changes we make.
 
-Your access and use of Catalyst is always subject to the most current version of this document.
-
-## Breach of Terms
-
-If you breach any of the terms and conditions in this document, your authorization to access or use Catalyst automatically terminates. Any materials downloaded or printed from Catalyst in violation of the Terms of Use must be immediately destroyed.
-
-We may block, restrict, disable, suspend or terminate your access to all or part of Catalyst at any time on our sole discretion, without prior notice or liability to you. To this day, we have never had to do this, and we hope it never happens.
-
-If you think we removed your access by mistake, get in touch and we’ll give you our reasoning.
+Your access and use of the Catalyst Services is always subject to the most current version of this document.
 
 ## Support
 
 Support for Catalyst is provided via email at help@getcatalyst.in.
 
-Email and phone support is also included, but is only provided to Catalyst Organization admins. If you have an issue with your Catalyst Organization account, contact your Organization admin(s) first, via their email addresses (shown in Catalyst app).
+Chat and phone support is also included, but **only provided to Owners**.
 
-Organization admins can invite managers and employees to be users. Organization admins are responsible for first-level support to the people on their Organizations.
+**Owners are responsible for first-level support** to the people in their Catalyst Organization. If you have an issue with your Catalyst Service, contact your Owner(s) first.
 
-We continuously update the Catalyst Documentation so that users can help themselves and Organization admins are better equipped to help their users.
+We continuously update our documentation so that users can help themselves and Owners are better equipped to help their users.
 
-We take pride in providing excellent customer support, but we are also a small team and value our work/life balance. This means that although we’ll try our best, we do not guarantee 24x7 support.
+We take pride in providing excellent customer support, but we are also a small team and value our work/life balance. This means that although we’ll try our best, **we do not guarantee 24/7 support**.
 
-## Access to Your Data / Privacy Policy
+## System Requirements
 
-### What Personal Data Do You Collect and Why?
+To access our Services, you need a modern web browser (IE11 or Edge, Chrome 49+, Firefox 52+, Safari 9+) with cookies and JavaScript enabled.
 
-We collect the following personal data:
+Your devices have to be able to access our servers on port 443 and 2222 (for SFTP uploads).
 
-* Name
-* E-mail address
-* Organization or team details
-* Billing Address
-* IP Address
+## Data Security
 
-We do not collect credit card information directly. See [Who can see my credit card number?](#who-can-see-my-credit-card-number-) below.
+### Access and Security of Your Data
 
-The email addresses we collect for the Organization admins, and users are used to communicate account activity. This activity may include, but is not limited to, subscription status (renewal, cancelation, etc.), and Organization ownership verification, and engagement notifications from the Catalyst app itself. Inbound return email addresses are only used to send a reply.
+By using Catalyst Services you agree that we shall process you data in accordance with applicable data privacy laws and where applicable, the [Data Processing Addendum](https://signup.getcatalyst.in/legal/dpa) which are incorporated into these Terms by reference and in accordance with our [Privacy Policy](https://signup.getcatalyst.in/legal/privacy).
 
-We use cookies to identify whether you have logged in to your Organization. Therefore, your browser must be enabled to accept cookies from getcatalyst.in and *.getcatalyst.in in order for you to use Catalyst.
-
-We collect the IP addresses of everyone who registers with Catalyst. This information is used for debugging and analytics purposes, and our logs are kept for 6 months. IP addresses and log information can be shared with Organization admins upon request.
-
-The Personal Data we collect is not shared with third parties, except for the purposes of determining the validity of a subscription payment. In this case we may share the name and email address of the Organization admin(s) with the credit card holder, your company’s accounting department, or with your payment processor when responding to a chargeback.
-
-### Who Can See My Password?
-
-No one. We use scrypt for encrypting your passwords and never store it in unencrypted form, ever.
-
-Therefore, it is your sole responsibility to keep your user name, password and other sensitive information confidential. If you become aware of any unauthorized use of your account or any other breach of security, you must notify Playlyfe immediately.
-
-If you forget your password, we send you a secure link via email that lets you reset it.
-
-User management is done inside Catalyst. We have LDAP integration which your Organization admin has to configure while setting up the Organization.
-
-Playlyfe staff will never change a password for you, nor change the Organization admin. Here’s an article that describes how you can change the Organization admin of a Catalyst Organization yourself.
-
-### Who Can See My Credit Card Number?
-
-No one at Playlyfe. We use trustworthy and secure payment processor such as Paypal for processing your payments.
-
-### Our Commitment to Children’s Privacy
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
-### How Can I Access or Correct My Information?
-
-You can access all your personally identifiable information that we collect online and maintain by logging in to your Catalyst Organization and visiting the Settings page, or by the Edit Profile page.
-
-You can download your organization’s data at any time in CSV or XLSX format.
-
-You can delete your Organization at any time, and it will be destroyed from our database immediately, with no way for us to recover them. You cannot delete an individual user account from the system, but can disable it.
-
-### What Are the System Requirements for Using Catalyst?
-
-A modern web browser (IE11 or Edge, Chrome 49+, Firefox 53+, Safari 9+) with cookies and javascript enabled is all that’s needed.
-
-Your clients have to be able to access the Catalyst servers on port 443.
-
-### Who Can See My Data?
-
-The people you share them with, as described in the People and Permissions documentation, as well as the Organization admin(s) and some Playlyfe employees.
-
-We use HTTPS and SSL (256-bit encryption) to transfer all data. Data is not encrypted when stored in our database (for performance reasons).
-
-### What Are the Guidelines Playlyfe Follows When Accessing My Data?
-
-* We restrict who at Playlyfe can access customer data to only senior members of the team, and never to outside parties.
-* We only do it in response to a customer support question.
-* We only do it in order to debug and fix the issue.
-* We never make changes to anything unless explicitly requested by an Organization admin.
-* If an Organization admin or a manager asks us to look into a project in order to debug a software issue, we will go in and look at that Organization and possibly make minor edits in order to fix the issue.
-* We never share what we see with other customers or the general public.
-* We might give access to Indian authorities if requested in writing. We’ll try not to, but we don’t have the resources to fight the government. We’ll also keep your Organization admin(s) informed as much as we can if this happens.
-
-### Who Else Has Access to My Data?
-
-We host our data on Microsoft Azure. Specifically, our database runs on Postgres. Microsoft employees have access to this data. [Here’s their privacy policy](https://www.microsoft.com/en-us/TrustCenter/Privacy/default.aspx). Microsoft controls physical access to their locations and have [several compliance certifications](https://www.microsoft.com/en-us/trustcenter/compliance/complianceofferings). We control physical access to our office locations using biometric fingerprint access.
-
-We use secure private keys when accessing Catalyst servers via SSH, and protect our Azure console passwords locally with Bitwarden.
-
-As mentioned above, we rely on trustworthy payment processors such as Paypal for payment processing.
-
-### How Is My Data Protected from Another Customer’s Data?
-
-All of our customers’ data reside in separate logical databases. We use software best practices to guarantee that only people who you designate as viewers of your data can access it. We do our best and are very confident we’re doing a good job at it, but, like every other web app that hosts their customers data on the same physical database server, we cannot guarantee that a sophisticated hacker cannot access other people’s data.
-
-### How Are You Protecting My Data from Hacker Attacks?
-
-Security is one of the main reasons we chose Azure as the infrastructure provider for Catalyst. To see all the steps Azure takes to protect the data saved on its services, take a look at the extensive [Security Center](https://www.microsoft.com/en-us/trustcenter/security) and the security-related white papers. It’s what makes us sleep well at night.
-
-We also have our own practices in place, which follow the industry’s best practices. We only give access to our servers to senior Playlyfe security experts, we keep our servers always up to date with security fixes, have one-click ways to take down servers should they become infected/compromised and to create and deploy new clean ones, we have an automated suite of tests against cyber attacks, we use 2-factor authentication whenever possible, and more. We don’t run background checks on employees nor have CISSP certifications or have audit logs.
-
-Should our systems get compromised, we will replace the server(s) that have been hacked with new ones (we can do this with very few clicks). If this doesn’t stop the attack, we’ll shut down the service until we can fix the vulnerability. We will also hire outside experts to help us and verify that we’re safe to resume service.
-
-### What Should I Do If I Find a Security Vulnerability in Catalyst?
-
-If you have discovered a security concern, please email us at security@getcatalyst.in. We’ll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to security@getcatalyst.in our highest priority, and work to address any issues that arise as quickly as possible.
-
-Please act in good faith towards our users’ privacy and data during your disclosure. We won’t take legal action against you or administrative action against your account if you act accordingly: White hat researchers are always appreciated.
-
-### Can I Run Catalyst on My Own Servers, behind the Firewall?
-
-Yes, you can. We offer an Enterprise version of our app which can be run in a private cloud. Contact us at sales@getcatalyst.in to talk to use and get a quote.
-
-
-## Subscription Term & Fees
-
-### Subscription Term and Renewals
-Unless otherwise specified on the applicable Order Form, each Subscription Term will automatically renew for additional twelve month periods unless either party gives the other written notice of termination at least thirty (30) days prior to expiration of the then-current Subscription Term.
-
-### Fees and Payment
-All fees are as set forth in the applicable Order Form and will be paid by Customer within thirty (30) days of invoice, unless (a) Customer is paying via Credit Card (as defined below) or (b) otherwise specified in the applicable Order Form.
-
-Except as expressly set forth in [Warranties and Disclaimers](#warranties-and-disclaimers) and [Indemnity and Liability](#indemnity-and-liability) sections, all fees are non-refundable. The rates in the Order Form are valid for the initial twelve (12) month period of each Subscription Term and thereafter may be subject to an automatic adjustment increase of up to ten percent (10%) per year. Customer is responsible for paying all Taxes, and all Taxes are excluded from any fees set forth in the applicable Order Form. If Customer is required by Law to withhold any Taxes from Customer's payment, the fees payable by Customer will be increased as necessary so that after making any required withholdings, Playlyfe receives and retains (free from any liability for payment of Taxes) an amount equal to the amount it would have received had no such withholdings been made. Any late payments will be subject to a service charge equal to 1.5% per month of the amount due or the maximum amount allowed by law, whichever is less.
-
-### Suspension of Service
-
-If a Customer's account is overdue by thirty (30) days or more, Playlyfe reserves the right to suspend Customer's access to the applicable Service (and any related services, in addition to any of its other rights or remedies (including but not limited to any termination rights set forth herein) without any liability to the Customer until such amounts are paid in full.
+We also provide details relating to information security on our [Data Security page](https://signup.getcatalyst.in/legal/security).
 
 ## Intellectual Property Rights
 
 ### Who Owns Catalyst Materials?
 
-Catalyst Materials are all the information, data, documents (e.g. white papers, press releases, datasheets, FAQs, etc.), communications, downloads, files, text, images, photographs, graphics, videos, webcasts, publications, content, tools, resources, software, code, programs and products on Catalyst produced by Playlyfe.
+**Catalyst Materials** are all the information, data, documents (e.g. white papers, press releases, datasheets, FAQs, etc.), communications, downloads, files, text, images, photographs, graphics, videos, webcasts, publications, content, tools, resources, software, code, programs and products on the Catalyst Services produced by Playlyfe.
 
-Catalyst Materials are protected by copyrights, trademarks, patents, trade secrets and all other intellectual property and proprietary rights, and any unauthorized use of the Catalyst Materials may violate such laws and the Terms of Use.
+Catalyst Materials are protected by copyrights, trademarks, patents, trade secrets and all other intellectual property and proprietary rights, and any unauthorized use of the Catalyst Materials may violate such laws and the Terms of Service.
 
-You agree not to copy, republish, frame, download, transmit, modify, adapt, create derivative works based on, rent, lease, loan, sell, assign, distribute, display, perform, license, sublicense or reverse engineer the Catalyst service or Catalyst Materials or any portions of them.
+You agree not to copy, republish, frame, download, transmit, modify, adapt, create derivative works based on, rent, lease, loan, sell, assign, distribute, display, perform, license, sublicense or reverse engineer the Catalyst Services or Catalyst Materials or any portions of them.
 
 You agree that you will not decompile, reverse engineer or otherwise attempt to discover the source code of the software. Any copying or redistribution of the software is prohibited, including any copying or reproduction of the software to any other server or location for further reproduction, redistribution or use on a service bureau basis. Any unauthorized use, copying or distribution of the software is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.
 
-The trademarks, logos and service marks displayed on this Site are the property of Playlyfe IT Solutions Pvt. Ltd. or other third parties. You are not permitted to use them without the prior written consent of Playlyfe IT Solutions Pvt. Ltd. or such third party that may own the Marks. Playlyfe, the Playlyfe logo, and the Catalyst logo are trademarks of Playlyfe IT Solutions Pvt. Ltd.
+The trademarks, logos and service marks displayed on the Services are the property of Playlyfe or other third parties. You are not permitted to use them without the prior written consent of Playlyfe or such third-party that may own the Marks. Playlyfe, the Playlyfe logo, and the Catalyst logo are trademarks of Playlyfe IT Solutions Pvt. Ltd.
 
 * Catalyst Materials may not be modified or altered in any way.
 * Catalyst Materials on Catalyst may not be distributed or sold, rented, leased, licensed or otherwise made available to others.
 * You may not remove any copyright or other proprietary notices contained in the Catalyst Materials.
 * You may not copy or distribute any graphics in the Catalyst Materials apart from their accompanying text.
 * You will not quote or display Catalyst Materials, or any portions thereof, out of context.
-* Catalyst reserves the right to revoke the authorization to view, download and print the Catalyst Materials available via Catalyst Cloud at any time, and any such use shall be discontinued immediately upon notice from Playlyfe.
+* Catalyst reserves the right to revoke the authorization to view, download and print the Catalyst Materials available via Catalyst Services at any time, and any such use shall be discontinued immediately upon notice from Playlyfe.
 * The rights granted to you constitute a license and not a transfer of title.
 * Any Catalyst Materials made available only upon payment of a fee may only be viewed, downloaded and printed subject to your payment of such fee.
 
@@ -197,106 +99,96 @@ The trademarks, logos and service marks displayed on this Site are the property 
 
 Playlyfe does not claim intellectual property rights over the data uploaded on Catalyst nor the assets your users upload.
 
-We leave it to each Catalyst Organization admin(s) to decide who should own the IP of the data on their Catalyst Organization. We encourage Organization admin(s) to make their policy clear to their Organization’s users, either via email or any other form convenient to them.
+For the Catalyst Web Application, we leave it to each Catalyst Organization Administrator(s) to decide who should own the IP of the data on their Catalyst Organization. We encourage Organization Administrator(s) to make their policy clear to their Organization’s users, either via email or any other form convenient to them.
 
 You acknowledge and agree that Playlyfe has no liability of any kind should anyone you granted access to your content modify, destroy, corrupt, copy or distribute it, or violate the terms of use or other limitations that you may impose on the use of your shared content.
 
-Playlyfe does not pre-screen user materials that users provide or otherwise submit via Catalyst; however, Playlyfe may remove any posted or submitted user materials from Catalyst for any reason without notice in its sole discretion. By posting or submitting your user materials, you represent and warrant that you own or otherwise control all of the intellectual property rights and other rights to your user materials as described in these Terms of Use, including all the rights necessary for you to post or submit your user materials.
+Playlyfe does not pre-screen user materials that users provide or otherwise submit via Catalyst Services; however, Playlyfe may remove any posted or submitted user materials from Catalyst Services for any reason without notice in its sole discretion. By posting or submitting your user materials, you represent and warrant that you own or otherwise control all of the intellectual property rights and other rights to your user materials as described in these Terms of Service, including all the rights necessary for you to post or submit your user materials.
 
-In addition, by posting or otherwise submitting your user materials that contain images, photographs, pictures, videos, webcasts or that are otherwise graphical in whole or in part (“Images”), you represent and warrant that: (a) you own the copyright in such Images, or that you have obtained all necessary license(s) from the copyright owner(s) of such Images to use such Images, or portions thereof, in keeping with your use in connection with Catalyst and as otherwise permitted by these Terms of Use; (b) in the event you choose to grant licenses and sublicenses to such Images, you have the rights necessary to grant the licenses and sublicenses described in these Terms of Use; and (c) you have received consent from any and all persons depicted in such Images to use the Images as set forth in these Terms of Use, including the distribution, public display, public performance and reproduction of such Images.
+In addition, by posting or otherwise submitting your user materials that contain images, photographs, pictures, videos, webcasts or that are otherwise graphical in whole or in part (“Images”), you represent and warrant that: (a) you own the copyright in such Images, or that you have obtained all necessary license(s) from the copyright owner(s) of such Images to use such Images, or portions thereof, in keeping with your use in connection with Catalyst Services and as otherwise permitted by these Terms of Service; (b) in the event you choose to grant licenses and sublicenses to such Images, you have the rights necessary to grant the licenses and sublicenses described in these Terms of Service; and (c) you have received consent from any and all persons depicted in such Images to use the Images as set forth in these Terms of Service, including the distribution, public display, public performance and reproduction of such Images.
 
-You are solely and entirely responsible for all of your user materials that you post or otherwise submit via Catalyst. You shall assume all risks associated with the use of your user materials including any reliance on the accuracy, completeness or usefulness of your user materials. Playlyfe does not guarantee the accuracy, integrity or quality of your user materials. You acknowledge and agree that by accessing or using Catalyst, you may be exposed to user materials from others that are offensive, indecent or otherwise objectionable.
+You are solely and entirely responsible for all of your user materials that you post or otherwise submit via Catalyst Services. You shall assume all risks associated with the use of your user materials including any reliance on the accuracy, completeness or usefulness of your user materials. Playlyfe does not guarantee the accuracy, integrity or quality of your user materials. You acknowledge and agree that by accessing or using Catalyst Services, you may be exposed to user materials from others that are offensive, indecent or otherwise objectionable.
 
 ## Reliability
 
-### Do You Guarantee That Catalyst Will Be Accessible at All Times?
+### Do You Guarantee That Catalyst Services Will Be Accessible at All Times?
 
-In short, we do not. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet. We do not offer contracted SLA for availability to Catalyst and your data.
+In short, we do not. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet. We do not offer contracted SLA for availability to Catalyst Services and your data.
 
 That said, high reliability is something we are proud of and something we deliberately chose to compete on. We have developers, system administrators and support staff on call, 24 / 7.
 
 We monitor Catalyst closely and have set up automated alarms to be notified (via email and SMS) when the Catalyst service is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
 
-You acknowledge and agree that Playlyfe shall not be liable for any failure to store your materials on Catalyst at any time.
-
-### How Is Our Data Backed Up?
-
-Your organization data, images, settings and user information are saved (unencrypted) in our database, which runs on Azure. We keep daily database snapshots of the last 3 days. Data is replicated in 2 different data centers.
-
-### How Quickly Can You Recover from a Data Center Disaster?
-
-This depends on the scale of the disaster, of course.
-
-We spread our app servers amongst several availability zones within the us-east-1 region, and have survived several outages in one or more zones without any downtime.
-
-Should the whole us-east-1 region be affected by an outage, it would probably take us up to a week to set up everything in a new region, assuming we’d still be able to get to our backup data.
+You acknowledge and agree that Playlyfe shall not be liable for any failure to store your materials on Catalyst Services at any time.
 
 ## Play Nice Clauses
 
-### Use of Catalyst
+### Use of Catalyst Services
 
 You agree that you shall not:
 
 * Collect, harvest, mine or engage in any other activity to obtain e-mail addresses, phone numbers, personal information or any other information about others.
-* Use or attempt to gain access to or use another’s user or company account, password, data, or computer systems or networks connected to any Catalyst or Playlyfe server, whether through hacking, password mining or any other means.
+* Use or attempt to gain access to or use another’s user or company account, password, data, or computer systems or networks connected to any Catalyst Services server, whether through hacking, password mining or any other means.
 * Access or attempt to access any material that you are not authorized to access.
 * Make available any files containing materials where you do not own or control, or have not received the necessary licenses to, all intellectual property rights, rights of privacy and publicity and all other rights in and to such materials.
 * Use any materials in any manner that infringes any intellectual property rights or other rights of any party.
-* Disrupt or interfere with the security of, or otherwise cause harm to, the Catalyst service, Catalyst Materials, systems resources, accounts, passwords, servers or networks connected to or accessible through Catalyst or any affiliated or linked sites.
-* Transmit unsolicited or bulk communications to any Catalyst account holder or to any getcatalyst.in or affiliated e-mail address.
+* Disrupt or interfere with the security of, or otherwise cause harm to, Catalyst Services, Catalyst Materials, systems resources, accounts, passwords, servers or networks connected to or accessible through Catalyst Services or any affiliated or linked sites.
+* Transmit unsolicited or bulk communications to any Catalyst Services account holder or to any getcatalyst.in or affiliated e-mail address.
 * Post or otherwise submit any software, programs or files that are harmful or disruptive of another’s equipment, software or other property, including any corrupted files, time bombs, Trojan horses, viruses and worms.
 * Create a false identity for the purpose of misleading others.
 * Download any materials posted by another that you know, or reasonably should know, cannot be legally reproduced, distributed, performed or displayed in such manner.
-* Disrupt, interfere or inhibit any other user from using the Catalyst service or other affiliated or linked sites, materials or services.
-* Access or use Catalyst in any manner that could damage, disable, overburden or impair any Catalyst server or the network(s) connected to any Catalyst server.
-* Violate any applicable laws or regulations related to the access to or use of Catalyst, or engage in any activity prohibited by the Terms of Use.
+* Disrupt, interfere or inhibit any other user from using and enjoying Catalyst Services or other affiliated or linked sites, materials or services.
+* Access or use Catalyst Services in any manner that could damage, disable, overburden or impair any Catalyst Services server or the network(s) connected to any Catalyst Services server.
+* Violate any applicable laws or regulations related to the access to or use of Catalyst Services, or engage in any activity prohibited by the Terms of Service.
 * Post or otherwise submit any topic, name, material or information that is child pornography, defamatory, excessively violent, harassing, inappropriate, indecent, lascivious, lewd, obscene, profane, racist, unlawful, or otherwise objectionable.
-* Prepare, compile, use, download or otherwise copy any Catalyst user directory or other user or usage information or any portion thereof, or transmit, provide or otherwise distribute (whether or not for a fee) such directory or information to any third party.
+* Prepare, compile, use, download or otherwise copy any Catalyst Services user directory or other user or usage information or any portion thereof, or transmit, provide or otherwise distribute (whether or not for a fee) such directory or information to any third-party.
 * Engage in any chain letters, contests, junk e-mail, pyramid schemes, spamming, surveys or any other duplicative or unsolicited messages (commercial or otherwise).
-* Violate the rights of Playlyfe or any third party (including rights of privacy and publicity) or abuse, defame, harass, stalk or threaten another.
-* Use any Playlyfe or Catalyst domain name as a pseudonymous return e-mail address.
+* Violate the rights of Playlyfe or any third-party (including rights of privacy and publicity) or abuse, defame, harass, stalk or threaten another.
+* Use any Playlyfe or Catalyst Services domain name as a pseudonymous return e-mail address.
 * Market any goods or services for any business purpose (including advertising and making offers to buy or sell goods or services), unless specifically allowed to do so by Playlyfe.
 
-Materials and Services provided by third parties are governed by separate agreements accompanying such materials and services. Playlyfe offers no guarantees and assumes no responsibility or liability of any type with respect to the third-party services, including any liability resulting from incompatibility between a third-party service, Catalyst Materials, the Catalyst service or another third-party service. You agree that you will not hold Playlyfe responsible or liable with respect to the third-party services.
+Materials and Services provided by third parties are governed by separate agreements accompanying such materials and services. Playlyfe offers no guarantees and assumes no responsibility or liability of any type with respect to the third-party services, including any liability resulting from incompatibility between a third-party service, Catalyst Materials, the Catalyst Services or another third-party service. You agree that you will not hold Playlyfe responsible or liable with respect to the third-party services.
 
 ### Special Treatment for Spammers
 
-In the event of your or others’ access to or use of the Catalyst service in connection with the transmission of spam unsolicited e-mail or postings in violation of these Terms of Use, you acknowledge and agree that Playlyfe would be irreparably harmed thereunder and that monetary damages would be an insufficient and ineffective remedy; therefore you agree that Playlyfe is entitled to obtain immediate injunctive relief against any such transmission (in addition to all other remedies available at law or in equity). Playlyfe may without restriction block, filter or delete unsolicited e-mail.
+In the event of your or others’ access to or use of Catalyst Services or Materials in connection with the transmission of spam unsolicited e-mail or postings in violation of these Terms of Service, you acknowledge and agree that Playlyfe would be irreparably harmed thereunder and that monetary damages would be an insufficient and ineffective remedy; therefore you agree that Playlyfe is entitled to obtain immediate injunctive relief against any such transmission (in addition to all other remedies available at law or in equity). Playlyfe may without restriction block, filter or delete unsolicited e-mail.
+
+### Subdomain Squatting
+
+For our Services that allow you to specify a subdomain, you may not engage in subdomain squatting. Service accounts that are inactive for more than 6 months may also be removed without further notice. Some of the factors that we take into account when determining what conduct is considered to be subdomain squatting are:
+
+- the number Service accounts created
+- creating Service accounts for the purpose of preventing others from using those account names
+- creating Service accounts for the purpose of selling those account
+
+Attempts to sell, buy, or solicit other forms of payment in exchange for Service subdomains are also violations and may result in permanent account suspension.
 
 ### Restriction and Termination of Use
 
-Playlyfe may block, restrict, disable, suspend or terminate your access to all or part of Catalyst at any time in Playlyfe’s sole discretion, without prior notice or liability to you.
+We may block, restrict, disable, suspend or terminate your access to all or part of the Catalyst Services at any time in our sole discretion, without prior notice or liability to you. To this day, we have never had to do this, and we hope it never happens.
+
+If you breach any of the terms and conditions in this document, your authorization to access or use the Catalyst Services automatically terminates. Any materials downloaded or printed from the Catalyst Services in violation of the Terms of Service must be immediately destroyed.
+
+If you think we removed your access by mistake, get in touch and we’ll give you our reasoning.
 
 ### Notification of Copyright Infringement
 
-Playlyfe will, in appropriate circumstances, terminate the accounts of users who infringe the intellectual property rights of others. Playlyfe will investigate notices of copyright infringement and take appropriate actions under the Digital Millennium Copyright Act, Title 17, United States Code, Section 512(c)(2) (“DMCA”).
+Playlyfe will, in appropriate circumstances, terminate the accounts of users who infringe the intellectual property rights of others. Playlyfe will investigate notices of copyright infringement and take appropriate actions under the Digital Millennium Copyright Act, Title 17, United States Code, Section 512©(2) (“DMCA”).
 
-If you believe that your work has been used or copied in a way that constitutes copyright infringement and such infringement is occurring on Catalyst or on sites linked to from Catalyst, please provide written notification of claimed copyright infringement to the designated agent for Catalyst (identified below), which must contain the following elements:
+If you believe that your work has been used or copied in a way that constitutes copyright infringement and such infringement is occurring on Catalyst Services or on sites linked to from Catalyst Services, please provide written notification of claimed copyright infringement to [the designated agent for Playlyfe](https://signup.getcatalyst.in/legal/privacy), which must contain the following elements:
 
 * A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest that is alleged to have been infringed;
 * A description of the copyrighted work or works that you claim have been infringed and identification of what content in such work(s) is claimed to be infringing and which you request to be removed or access to which is to be disabled;
-* A description of where the content that you claim is infringing is located on Catalyst;
+* A description of where the content that you claim is infringing is located on a Catalyst Service;
 * Information sufficient to permit Playlyfe to contact you, such as your physical address, telephone number, and e-mail address;
 * A statement by you that you have a good faith belief that the use of the content identified in your Notice in the manner complained of is not authorized by the copyright owner, its agent, or the law;
 * A statement by you that the information in your notice is accurate and, under penalty of perjury, that you are the copyright owner or authorized to act on the copyright owner’s behalf.
 
-Playlyfe’s designated agent for notice of claims of copyright infringement can be reached as follows:
+Playlyfe’s designated agent for notice of claims of copyright infringement can be reached [here](https://signup.getcatalyst.in/legal/privacy#contact-us)
 
-By mail:
-Playlyfe IT Solutions Pvt. Ltd.
-X-103, 25th Cross, 24th Main
-Sector 2, HSR Layout
-Bangalore, KA 560102
+## Links to Third-Party Sites
 
-By e-mail: sales@getcatalyst.in
-
-## Links to Third Party Sites
-
-Catalyst may include links that will take you to other sites outside of the Catalyst service. The linked sites are provided by Playlyfe to you as a convenience and the inclusion of the links do not imply any endorsement by Playlyfe of any linked site. Playlyfe has no control of the linked sites and you therefore acknowledge and agree that Playlyfe is not responsible for the contents of any linked site, any link contained in a linked site or any changes or updates to a linked site. You further acknowledge and agree that Playlyfe is not responsible for any form of transmission (e.g. webcasting) received from any linked site.
-
-## Advertisements and Promotions
-
-Playlyfe may run advertisements and promotions from third parties via Catalyst in any manner or mode and to any extent. Your communications, activities, relationships and business dealings with any third parties advertising or promoting via Catalyst, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, shall be solely matters between you and such third parties. You acknowledge and agree that Playlyfe is not responsible or liable for any loss or damage of any kind incurred as the result of any such dealings or as the result of the presence of such non-Playlyfe advertisers on Catalyst.
+Catalyst Services may include links that will take you to other sites outside of the Catalyst Services. The linked sites are provided by Playlyfe to you or the creators of the wireframes as a convenience and the inclusion of the links do not imply any endorsement by Playlyfe of any linked site. Playlyfe has no control of the linked sites and you therefore acknowledge and agree that Playlyfe is not responsible for the contents of any linked site, any link contained in a linked site or any changes or updates to a linked site. You further acknowledge and agree that Playlyfe is not responsible for any form of transmission (e.g. webcasting) received from any linked site.
 
 ## Warranties and Disclaimers
 
@@ -325,17 +217,16 @@ Some states or jurisdictions do not allow the exclusion of implied warranties or
 
 ## Indemnity and Liability
 
-You agree to indemnify and hold Playlyfe and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of:
+You agree to indemnify and hold Playlyfe and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of:
 
-* your user materials and any other content (e.g. computer viruses) that you may submit, post to or transmit through Catalyst, including a third party’s use of such user materials or content (e.g. reliance on the accuracy, completeness or usefulness of your user materials);
+* your user materials and any other content (e.g. computer viruses) that you may submit, post to or transmit through Catalyst, including a third-party’s use of such user materials or content (e.g. reliance on the accuracy, completeness or usefulness of your user materials);
 * your access to or use of Catalyst (including any use by your employees, contractors or agents and all uses of your account numbers, user names and passwords, whether or not actually or expressly authorized by you, in connection with Catalyst);
 * your connection to Catalyst;
 * your violation of the Terms of Use;
-* the actions of any member of your work group, including non-logged in users you have granted access to your Catalyst Space;
-* your infringement of any third party’s intellectual property rights when using any of the software made available on Catalyst;
-* your violation of any rights of any third party;
+* the actions of any member of your work group, including non-logged in users you have granted access to your Catalyst Organization;
+* your infringement of any third-party’s intellectual property rights when using any of the software made available on Catalyst;
+* your violation of any rights of any third-party;
 * your access to or use of linked sites and your connections thereto; or
-* any dealings between you and any third parties advertising or promoting via Catalyst.
 
 ## International Users
 
@@ -345,10 +236,10 @@ The export and re-export of Playlyfe Software are controlled by the Foreign Trad
 
 ## Limitation of Liability
 
-In no event shall Playlyfe, its officers, directors, employees, partners or suppliers be liable to you or any third party for any special, punitive, incidental, indirect or consequential damages or losses of any kind, or any damages or losses whatsoever, including those resulting from loss of use, data or profits, whether or not foreseeable or if Playlyfe has been advised of the possibility of such damages or losses, and on any theory of liability, including breach of contract or warranty, negligence or other tortious action, or any other claim arising out of or in connection with:
+In no event shall Playlyfe, its officers, directors, employees, partners or suppliers be liable to you or any third-party for any special, punitive, incidental, indirect or consequential damages or losses of any kind, or any damages or losses whatsoever, including those resulting from loss of use, data or profits, whether or not foreseeable or if Playlyfe has been advised of the possibility of such damages or losses, and on any theory of liability, including breach of contract or warranty, negligence or other tortious action, or any other claim arising out of or in connection with:
 
 * the access or use of or the inability to access or use the Catalyst service or Catalyst Materials;
-* the statements or actions of any third party on or via the site, services or materials;
+* the statements or actions of any third-party on or via the site, services or materials;
 * any dealings with vendors or other third parties;
 * any unauthorized access to or alteration of your transmissions, user materials or other data;
 * any information that is sent or received or not sent or received;
@@ -365,9 +256,10 @@ The Catalyst service (excluding linked sites) is controlled by Playlyfe IT Solut
 
 ## General
 
-The Terms of Use and other rules, guidelines, licenses and disclaimers posted via Catalyst or in connection with the Materials and Services constitute the entire agreement between Playlyfe and you with respect to your access to or use of the Catalyst service and materials superseding any prior agreements between you and Playlyfe on such subject matter (including any prior versions of the Terms of Use). Notwithstanding the foregoing, to the extent that any terms set forth in the Terms of Use expressly contradict any terms of a written agreement between you and Playlyfe regarding the use of specific Services or Materials (including Service-specific terms of use and Software-specific licenses) (“Executed Agreement”), such contradictory terms set forth in the Executed Agreement shall govern. You may also be subject to additional terms and conditions that may apply when you use other Playlyfe services, third party content or third party software. If for any reason a court of competent jurisdiction finds any provision of the Terms of Use, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties as reflected by that provision, and the remainder of the Terms of Use shall continue in full force and effect. Any failure by Playlyfe to enforce or exercise any provision of the Terms of Use or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Use are purely for convenience and carry with them no legal or contractual effect.
+The Terms of Use and other rules, guidelines, licenses and disclaimers posted via Catalyst or in connection with the Materials and Services constitute the entire agreement between Playlyfe and you with respect to your access to or use of the Catalyst service and materials superseding any prior agreements between you and Playlyfe on such subject matter (including any prior versions of the Terms of Use). Notwithstanding the foregoing, to the extent that any terms set forth in the Terms of Use expressly contradict any terms of a written agreement between you and Playlyfe regarding the use of specific Services or Materials (including Service-specific terms of use and Software-specific licenses) (“Executed Agreement”), such contradictory terms set forth in the Executed Agreement shall govern. You may also be subject to additional terms and conditions that may apply when you use other Playlyfe services, third-party content or third-party software. If for any reason a court of competent jurisdiction finds any provision of the Terms of Use, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to affect the intent of the parties as reflected by that provision, and the remainder of the Terms of Use shall continue in full force and effect. Any failure by Playlyfe to enforce or exercise any provision of the Terms of Use or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Use are purely for convenience and carry with them no legal or contractual effect.
 
 ## Document History
 
-* 2017, Nov 14: created.
+* 2018, Sep 21: split and updated document into terms, privacy and security.
 * 2018, Mar 18: added subscription term & fees.
+* 2017, Nov 14: created.

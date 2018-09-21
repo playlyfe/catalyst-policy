@@ -1,0 +1,7 @@
+{
+  "name": "catalyst-policy",
+  "description": "This repository holds all current and historical terms of service and policies for Catalyst - a product of Playlyfe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
